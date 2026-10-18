@@ -1,0 +1,1386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>苏州市相城区农村自建房与村落实景空间导航 (Google Earth专属项目)</name>
+    <open>1</open>
+    <description><![CDATA[
+      <h2>苏州市相城区农村自建房与村落实景空间导航</h2>
+      <p><b>适用场景</b>：农村自建房新建/翻建现场踏勘、老房子现状核查、四邻间距测绘、宅基地规划报建底图</p>
+      <p><b>使用提示</b>：在谷歌地球（Google Earth）左上角点击<b>历史影像时钟图标</b>，可拖动时间轴对比2010~2024年间老房子的历史面貌，核实老宅基地合法轮廓！</p>
+    ]]></description>
+    <Style id="village_icon">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.9</scale>
+        <color>ff00ffff</color>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>望亭镇 (8个村落)</name>
+      <open>1</open>
+      <Placemark>
+        <name>迎湖村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 望亭镇 · 迎湖村</h3>
+            <p><b>地理坐标</b>：北纬 31.41470°，东经 120.39040°</p>
+            <p><b>村庄现状与特点</b>：太湖生态岸线美丽乡村，农房依水而建，自建房风貌管控示范村</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.3904</longitude>
+          <latitude>31.4147</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.3904,31.4147,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>项路村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 望亭镇 · 项路村</h3>
+            <p><b>地理坐标</b>：北纬 31.40480°，东经 120.42760°</p>
+            <p><b>村庄现状与特点</b>：望亭腹地大村，下辖巨庄等传统自然村落，老旧农房存量较多</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.4276</longitude>
+          <latitude>31.4048</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.4276,31.4048,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>华阳村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 望亭镇 · 华阳村</h3>
+            <p><b>地理坐标</b>：北纬 31.41020°，东经 120.45910°</p>
+            <p><b>村庄现状与特点</b>：望亭东部门户村，水陆交通便利，农房集中连片</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.4591</longitude>
+          <latitude>31.4102</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.4591,31.4102,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>何家角村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 望亭镇 · 何家角村</h3>
+            <p><b>地理坐标</b>：北纬 31.43270°，东经 120.45200°</p>
+            <p><b>村庄现状与特点</b>：水网密布传统村庄，典型江南水乡农居分布</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.452</longitude>
+          <latitude>31.4327</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.452,31.4327,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅基村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 望亭镇 · 宅基村</h3>
+            <p><b>地理坐标</b>：北纬 31.43690°，东经 120.41160°</p>
+            <p><b>村庄现状与特点</b>：传统宅基地村落，大量保留老式粉墙黛瓦农居</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.4116</longitude>
+          <latitude>31.4369</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.4116,31.4369,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>问渡村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 望亭镇 · 问渡村</h3>
+            <p><b>地理坐标</b>：北纬 31.42140°，东经 120.44230°</p>
+            <p><b>村庄现状与特点</b>：大运河古驿运文化村落，沿河依水而居</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.4423</longitude>
+          <latitude>31.4214</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.4423,31.4214,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>四旺村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 望亭镇 · 四旺村</h3>
+            <p><b>地理坐标</b>：北纬 31.44270°，东经 120.43120°</p>
+            <p><b>村庄现状与特点</b>：水稻与蔬菜种植区，分散式农庄聚落</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.4312</longitude>
+          <latitude>31.4427</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.4312,31.4427,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新埂村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 望亭镇 · 新埂村</h3>
+            <p><b>地理坐标</b>：北纬 31.42850°，东经 120.43800°</p>
+            <p><b>村庄现状与特点</b>：太湖平原圩田聚落，农居形态规整</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.438</longitude>
+          <latitude>31.4285</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.438,31.4285,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>黄埭镇 (8个村落)</name>
+      <open>1</open>
+      <Placemark>
+        <name>冯梦龙村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 黄埭镇 · 冯梦龙村</h3>
+            <p><b>地理坐标</b>：北纬 31.45950°，东经 120.52390°</p>
+            <p><b>村庄现状与特点</b>：全国乡村旅游重点村，新老农房交错，自建房改造与乡村风貌标杆</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.5239</longitude>
+          <latitude>31.4595</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.5239,31.4595,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西桥村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 黄埭镇 · 西桥村</h3>
+            <p><b>地理坐标</b>：北纬 31.45070°，东经 120.49830°</p>
+            <p><b>村庄现状与特点</b>：黄埭西部村庄，水网交错，老房密集</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.4983</longitude>
+          <latitude>31.4507</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.4983,31.4507,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旺庄村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 黄埭镇 · 旺庄村</h3>
+            <p><b>地理坐标</b>：北纬 31.44530°，东经 120.52120°</p>
+            <p><b>村庄现状与特点</b>：紧邻春申湖，生态环境优美，农居翻建需求大</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.5212</longitude>
+          <latitude>31.4453</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.5212,31.4453,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>裴圩村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 黄埭镇 · 裴圩村</h3>
+            <p><b>地理坐标</b>：北纬 31.43490°，东经 120.54350°</p>
+            <p><b>村庄现状与特点</b>：传统农业平原圩区，自建房以单体独栋为主</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.5435</longitude>
+          <latitude>31.4349</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.5435,31.4349,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青龙村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 黄埭镇 · 青龙村</h3>
+            <p><b>地理坐标</b>：北纬 31.44160°，东经 120.55700°</p>
+            <p><b>村庄现状与特点</b>：紧邻北桥与黄埭交界，传统农居保持良好</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.557</longitude>
+          <latitude>31.4416</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.557,31.4416,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埭川村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 黄埭镇 · 埭川村</h3>
+            <p><b>地理坐标</b>：北纬 31.43830°，东经 120.55770°</p>
+            <p><b>村庄现状与特点</b>：黄埭东南部水乡村落</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.5577</longitude>
+          <latitude>31.4383</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.5577,31.4383,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹤泾村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 黄埭镇 · 鹤泾村</h3>
+            <p><b>地理坐标</b>：北纬 31.44800°，东经 120.53100°</p>
+            <p><b>村庄现状与特点</b>：江南水乡村庄，水系环绕</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.531</longitude>
+          <latitude>31.448</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.531,31.448,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>方埝村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 黄埭镇 · 方埝村</h3>
+            <p><b>地理坐标</b>：北纬 31.45600°，东经 120.50900°</p>
+            <p><b>村庄现状与特点</b>：传统圩田村落，自建房沿河展布</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.509</longitude>
+          <latitude>31.456</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.509,31.456,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>阳澄湖镇 (8个村落)</name>
+      <open>1</open>
+      <Placemark>
+        <name>消泾村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 阳澄湖镇 · 消泾村</h3>
+            <p><b>地理坐标</b>：北纬 31.52190°，东经 120.80180°</p>
+            <p><b>村庄现状与特点</b>：阳澄湖大闸蟹之乡核心示范村，典型水网村落，新苏派自建房集中</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.8018</longitude>
+          <latitude>31.5219</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.8018,31.5219,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>莲花村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 阳澄湖镇 · 莲花村</h3>
+            <p><b>地理坐标</b>：北纬 31.46400°，东经 120.81130°</p>
+            <p><b>村庄现状与特点</b>：阳澄湖莲花岛，全岛水乡村落风貌，严格保护传统农房建筑</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.8113</longitude>
+          <latitude>31.464</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.8113,31.464,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>车渡村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 阳澄湖镇 · 车渡村</h3>
+            <p><b>地理坐标</b>：北纬 31.49780°，东经 120.79400°</p>
+            <p><b>村庄现状与特点</b>：阳澄湖畔水产渔村，水上农居与陆地农房交融</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.794</longitude>
+          <latitude>31.4978</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.794,31.4978,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>洋沟溇村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 阳澄湖镇 · 洋沟溇村</h3>
+            <p><b>地理坐标</b>：北纬 31.48740°，东经 120.76790°</p>
+            <p><b>村庄现状与特点</b>：湖滨水乡村落，河港纵横</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.7679</longitude>
+          <latitude>31.4874</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.7679,31.4874,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>枪堂村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 阳澄湖镇 · 枪堂村</h3>
+            <p><b>地理坐标</b>：北纬 31.49700°，东经 120.70010°</p>
+            <p><b>村庄现状与特点</b>：阳澄湖西片传统村落，自建房规整</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.7001</longitude>
+          <latitude>31.497</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.7001,31.497,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>戴溇村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 阳澄湖镇 · 戴溇村</h3>
+            <p><b>地理坐标</b>：北纬 31.51200°，东经 120.78500°</p>
+            <p><b>村庄现状与特点</b>：湖岸渔家特色村落</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.785</longitude>
+          <latitude>31.512</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.785,31.512,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十图村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 阳澄湖镇 · 十图村</h3>
+            <p><b>地理坐标</b>：北纬 31.50300°，东经 120.74200°</p>
+            <p><b>村庄现状与特点</b>：阳澄湖传统农业村</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.742</longitude>
+          <latitude>31.503</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.742,31.503,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岸山村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 阳澄湖镇 · 岸山村</h3>
+            <p><b>地理坐标</b>：北纬 31.51000°，东经 120.72500°</p>
+            <p><b>村庄现状与特点</b>：阳澄湖西北岸生态村庄</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.725</longitude>
+          <latitude>31.51</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.725,31.51,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>渭塘镇 (6个村落)</name>
+      <open>1</open>
+      <Placemark>
+        <name>渭西村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 渭塘镇 · 渭西村</h3>
+            <p><b>地理坐标</b>：北纬 31.46970°，东经 120.63160°</p>
+            <p><b>村庄现状与特点</b>：渭塘西部农业示范村，农房改造与美丽乡村建设示范点</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.6316</longitude>
+          <latitude>31.4697</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.6316,31.4697,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渭北村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 渭塘镇 · 渭北村</h3>
+            <p><b>地理坐标</b>：北纬 31.46120°，东经 120.65200°</p>
+            <p><b>村庄现状与特点</b>：城郊结合型村庄，老房密集，翻建诉求高</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.652</longitude>
+          <latitude>31.4612</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.652,31.4612,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>盛泽村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 渭塘镇 · 盛泽村</h3>
+            <p><b>地理坐标</b>：北纬 31.46460°，东经 120.68440°</p>
+            <p><b>村庄现状与特点</b>：盛泽荡湖区周边水乡村落，河网密布</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.6844</longitude>
+          <latitude>31.4646</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.6844,31.4646,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>骑河村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 渭塘镇 · 骑河村</h3>
+            <p><b>地理坐标</b>：北纬 31.44490°，东经 120.66120°</p>
+            <p><b>村庄现状与特点</b>：水陆交通要冲，传统自然村落集中</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.6612</longitude>
+          <latitude>31.4449</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.6612,31.4449,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>凤凰泾村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 渭塘镇 · 凤凰泾村</h3>
+            <p><b>地理坐标</b>：北纬 31.48850°，东经 120.66030°</p>
+            <p><b>村庄现状与特点</b>：凤凰泾流域传统村落，保持传统水乡格局</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.6603</longitude>
+          <latitude>31.4885</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.6603,31.4885,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西湖村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 渭塘镇 · 西湖村</h3>
+            <p><b>地理坐标</b>：北纬 31.45120°，东经 120.68420°</p>
+            <p><b>村庄现状与特点</b>：临近湖区生态保护村庄</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.6842</longitude>
+          <latitude>31.4512</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.6842,31.4512,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>北桥街道 (6个村落)</name>
+      <open>1</open>
+      <Placemark>
+        <name>灵峰村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 北桥街道 · 灵峰村</h3>
+            <p><b>地理坐标</b>：北纬 31.53460°，东经 120.61190°</p>
+            <p><b>村庄现状与特点</b>：全国文明村，现代化苏式新农房建设典范，自建房风貌极佳</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.6119</longitude>
+          <latitude>31.5346</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.6119,31.5346,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庄基村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 北桥街道 · 庄基村</h3>
+            <p><b>地理坐标</b>：北纬 31.48790°，东经 120.62480°</p>
+            <p><b>村庄现状与特点</b>：北桥传统水乡村落，保留大量传统独栋民宅</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.6248</longitude>
+          <latitude>31.4879</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.6248,31.4879,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹅东村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 北桥街道 · 鹅东村</h3>
+            <p><b>地理坐标</b>：北纬 31.52140°，东经 120.58100°</p>
+            <p><b>村庄现状与特点</b>：鹅真荡水系传统村庄，自建房临水而建</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.581</longitude>
+          <latitude>31.5214</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.581,31.5214,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丰泾村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 北桥街道 · 丰泾村</h3>
+            <p><b>地理坐标</b>：北纬 31.49950°，东经 120.55050°</p>
+            <p><b>村庄现状与特点</b>：西北部水乡村庄，老房存量明显</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.5505</longitude>
+          <latitude>31.4995</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.5505,31.4995,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芮埭村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 北桥街道 · 芮埭村</h3>
+            <p><b>地理坐标</b>：北纬 31.49070°，东经 120.60990°</p>
+            <p><b>村庄现状与特点</b>：传统农居聚集区</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.6099</longitude>
+          <latitude>31.4907</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.6099,31.4907,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石桥村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 北桥街道 · 石桥村</h3>
+            <p><b>地理坐标</b>：北纬 31.50760°，东经 120.62900°</p>
+            <p><b>村庄现状与特点</b>：水网密布，桥梁与村落结合紧密</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.629</longitude>
+          <latitude>31.5076</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.629,31.5076,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>太平街道 (6个村落)</name>
+      <open>1</open>
+      <Placemark>
+        <name>旺巷村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 太平街道 · 旺巷村</h3>
+            <p><b>地理坐标</b>：北纬 31.42190°，东经 120.70620°</p>
+            <p><b>村庄现状与特点</b>：阳澄湖西岸生态村庄，农家小院错落有致</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.7062</longitude>
+          <latitude>31.4219</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.7062,31.4219,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>花溇村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 太平街道 · 花溇村</h3>
+            <p><b>地理坐标</b>：北纬 31.42500°，东经 120.68770°</p>
+            <p><b>村庄现状与特点</b>：传统水网村落，自建房依河而建</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.6877</longitude>
+          <latitude>31.425</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.6877,31.425,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沈桥村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 太平街道 · 沈桥村</h3>
+            <p><b>地理坐标</b>：北纬 31.39190°，东经 120.68740°</p>
+            <p><b>村庄现状与特点</b>：南部水乡村庄，老房聚集</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.6874</longitude>
+          <latitude>31.3919</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.6874,31.3919,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>乐安村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 太平街道 · 乐安村</h3>
+            <p><b>地理坐标</b>：北纬 31.42340°，东经 120.67070°</p>
+            <p><b>村庄现状与特点</b>：平原农业聚落，独门独院</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.6707</longitude>
+          <latitude>31.4234</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.6707,31.4234,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>花倪村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 太平街道 · 花倪村</h3>
+            <p><b>地理坐标</b>：北纬 31.39590°，东经 120.66630°</p>
+            <p><b>村庄现状与特点</b>：水网与公路干线交错区村庄</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.6663</longitude>
+          <latitude>31.3959</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.6663,31.3959,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>莲港村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 太平街道 · 莲港村</h3>
+            <p><b>地理坐标</b>：北纬 31.45200°，东经 120.72300°</p>
+            <p><b>村庄现状与特点</b>：沿阳澄湖港湾分布，传统渔农混合聚落</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.723</longitude>
+          <latitude>31.452</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.723,31.452,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>黄桥街道 (4个村落)</name>
+      <open>1</open>
+      <Placemark>
+        <name>生田村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 黄桥街道 · 生田村</h3>
+            <p><b>地理坐标</b>：北纬 31.41400°，东经 120.57410°</p>
+            <p><b>村庄现状与特点</b>：黄桥西部保留村庄，城郊自建房与传统农房并存</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.5741</longitude>
+          <latitude>31.414</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.5741,31.414,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木巷村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 黄桥街道 · 木巷村</h3>
+            <p><b>地理坐标</b>：北纬 31.39420°，东经 120.57090°</p>
+            <p><b>村庄现状与特点</b>：传统小聚落，老宅基地密集</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.5709</longitude>
+          <latitude>31.3942</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.5709,31.3942,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>占上村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 黄桥街道 · 占上村</h3>
+            <p><b>地理坐标</b>：北纬 31.38210°，东经 120.55970°</p>
+            <p><b>村庄现状与特点</b>：南部城郊接合部村庄</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.5597</longitude>
+          <latitude>31.3821</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.5597,31.3821,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>方浜村</name>
+        <styleUrl>#village_icon</styleUrl>
+        <description><![CDATA[
+          <div style="font-family:sans-serif; line-height:1.6; font-size:13px;">
+            <h3 style="color:#1a73e8; margin-bottom:4px;">苏州市相城区 · 黄桥街道 · 方浜村</h3>
+            <p><b>地理坐标</b>：北纬 31.40210°，东经 120.57950°</p>
+            <p><b>村庄现状与特点</b>：水滨古村，老旧建筑改造潜力大</p>
+            <hr style="border:none; border-top:1px solid #ddd; margin:8px 0;"/>
+            <p style="color:#d93025; font-size:12px;"><b>【自建房勘测要点】</b>：<br/>
+            1. <b>历史老宅核验</b>：请点击顶部“时钟”图标拉动历史卫星影像，核查老房历史基地。<br/>
+            2. <b>三维地貌与采光</b>：按住鼠标滚轮倾斜查看周边建筑层数与遮阳情况。<br/>
+            3. <b>间距测绘</b>：使用顶部“标尺”工具测量宅基地红线与四邻退距。
+            </p>
+          </div>
+        ]]></description>
+        <LookAt>
+          <longitude>120.5795</longitude>
+          <latitude>31.4021</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>38</tilt>
+          <range>880</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <Point>
+          <coordinates>120.5795,31.4021,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
